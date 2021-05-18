@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[493],{545:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/gh-page-deployment/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/gh-page-deployment/blog/tags/hola"}')}}]);
