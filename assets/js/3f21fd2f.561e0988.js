@@ -1,0 +1,1 @@
+(self.webpackChunkmanager=self.webpackChunkmanager||[]).push([[493],{545:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/gh-page-deployment/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/gh-page-deployment/blog/tags/hola"}')}}]);
